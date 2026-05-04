@@ -1,0 +1,13 @@
+O Git é um sistema de controle de versão distribuído, gratuito e de código aberto, projetado para lidar com tudo, desde pequenos a grandes projetos com rapidez e eficiência. Ele rastreia as alterações feitas em arquivos de computador, sendo amplamente utilizado por programadores para gerenciar o código-fonte durante o desenvolvimento de software.
+
+## História do Git
+
+O Git foi criado em 2005 por Linus Torvalds, o mesmo criador do núcleo (kernel) do sistema operacional Linux.
+
+A Necessidade (Antes de 2005): A comunidade de desenvolvimento do Linux utilizava um sistema proprietário chamado BitKeeper para gerenciar o código.
+
+A Ruptura: Em 2005, a empresa proprietária do BitKeeper encerrou o uso gratuito do software para a comunidade Linux devido a controvérsias.
+
+A Criação: Sem uma ferramenta alternativa rápida e distribuída que atendesse às necessidades de um projeto gigante como o Linux, Linus Torvalds desenvolveu o Git em poucos dias para substituir o BitKeeper.
+
+O Nome: Torvalds ironizou chamando o sistema de "Git" (uma gíria britânica para pessoas desagradáveis ou estúpidas), referindo-se a si mesmo de forma humorada ou às dificuldades com outros sistemas.
