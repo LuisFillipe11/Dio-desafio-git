@@ -11,3 +11,4 @@ A Ruptura: Em 2005, a empresa proprietária do BitKeeper encerrou o uso gratuito
 A Criação: Sem uma ferramenta alternativa rápida e distribuída que atendesse às necessidades de um projeto gigante como o Linux, Linus Torvalds desenvolveu o Git em poucos dias para substituir o BitKeeper.
 
 O Nome: Torvalds ironizou chamando o sistema de "Git" (uma gíria britânica para pessoas desagradáveis ou estúpidas), referindo-se a si mesmo de forma humorada ou às dificuldades com outros sistemas.
+ 
