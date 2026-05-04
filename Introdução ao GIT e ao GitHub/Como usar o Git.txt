@@ -1,1 +1,2 @@
-Para usar o Git, instale-o e configure seu nome/e-mail com git config. Inicie um projeto com git init, adicione arquivos com git add e salve versões com git commit -m. Para salvar na nuvem, use git remote add e git push para enviar ao GitHub.
+Para usar o Git, instale-o e configure seu nome/e-mail com git config. Inicie um projeto com git init, adicione arquivos com git add e salve versões com git commit -m. Para salvar na nuvem, use git remote add e git push 
+para enviar ao GitHub.
