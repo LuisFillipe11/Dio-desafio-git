@@ -5,3 +5,5 @@ Links para Download e Login:
 Git:https://git-scm.com/install/windows
 GitHub: https://github.com/
  
+Para mais detalhes você pode acessar a esse vídeo:
+https://www.youtube.com/watch?v=DqTITcMq68k
